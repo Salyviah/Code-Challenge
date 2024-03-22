@@ -1,36 +1,10 @@
-# (Project Name)
+SA.01: WK1: CODE CHALLENGE
 
-#### Date, 2018/09/14
+Challenge 1: Student Grade Generator (Toy Problem)
+    Write a program that prompts the user to input student marks
 
-#### By *Hamida Mstafa Mohamed*
+Challenge 2: Speed Detector (Toy Problem)
+    Write a program that takes as input the speed of a car
 
-## Description
-It's a webpage that shows different types of triangles and what they look like.
-
-## Installation
-You use git clone to be able to download the documents in the GitHub
-
-## Installation Requirements
-Git
-
-### Installation instruction
-```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
-
-```
-
-# Live Link
-[Git](gh-pages link)
-
-## Technologies used
-HTML
-CSS
-Github
-Javascript
-
-## Support and contact details
-github.com/hamida-mstafa
-
-### License
-The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Challenge 3: Net Salary Calculator (Toy Problem)
+    Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
